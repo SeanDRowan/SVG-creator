@@ -5,7 +5,7 @@
     <g>
     
         <polygon points="130, 18 244, 182 26, 182" fill="orange"/>
-          <text x="80" y="140" font-size="50px" fill="red">red</text>
+          <text x="80" y="140" font-size="50px" fill="blue">red</text>
     
     </g>
     </svg>
