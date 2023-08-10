@@ -7,13 +7,13 @@
 [Usage](#usage)
 
 [Questions](#questions)
-### Installation
+
      
 ### Usage
      to use, open in the terminal and run node index.js and answer the prompts, a svg file matching the criteria will be created in the exmaples folder.
 https://drive.google.com/file/d/1uZrnacXfjnPGJy0lNvkKTcRFvvwTNS1P/view 
 
-### Contributing
+
      
      
 ### Questions
